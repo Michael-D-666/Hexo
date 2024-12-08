@@ -5,8 +5,8 @@
     
     <entry>
       <title>行测-数量与资料分析</title>
-      <link href="/Michael-D-666/Hexo/2024/12/07/%E8%A1%8C%E6%B5%8B-%E6%95%B0%E9%87%8F%E4%B8%8E%E8%B5%84%E6%96%99%E5%88%86%E6%9E%90/"/>
-      <url>/Michael-D-666/Hexo/2024/12/07/%E8%A1%8C%E6%B5%8B-%E6%95%B0%E9%87%8F%E4%B8%8E%E8%B5%84%E6%96%99%E5%88%86%E6%9E%90/</url>
+      <link href="/Hexo/2024/12/07/%E8%A1%8C%E6%B5%8B-%E6%95%B0%E9%87%8F%E4%B8%8E%E8%B5%84%E6%96%99%E5%88%86%E6%9E%90/"/>
+      <url>/Hexo/2024/12/07/%E8%A1%8C%E6%B5%8B-%E6%95%B0%E9%87%8F%E4%B8%8E%E8%B5%84%E6%96%99%E5%88%86%E6%9E%90/</url>
       
         <content type="html"><![CDATA[<h2 id="解题技巧"><a href="#解题技巧" class="headerlink" title="解题技巧"></a>解题技巧</h2><ol><li>列完不定方程后，若只能代入求解，则看题目中有无 <code>最大</code> <code>最小</code>字眼，可以从选项中选择最大值或最小值代入</li><li>复杂计算式子在实际问题中可能需要保证每一步算出来的都是整数 （p8例5）</li><li>不定方程两边可以通过奇偶判断，排除答案中奇偶错误的选项 （p10例1）</li><li>一个数能被4整除，当且仅当后两位能被4整除；一个数能被8整除，当且仅当后三位能被8整除</li><li>a占除a之外的1&#x2F;3，则a占总的1&#x2F;4 （p13例4）</li><li>不定方程中可以假设一项取值为0，算出其余项 （p28例10）</li></ol>]]></content>
       
@@ -18,8 +18,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/Michael-D-666/Hexo/2024/12/04/hello-world/"/>
-      <url>/Michael-D-666/Hexo/2024/12/04/hello-world/</url>
+      <link href="/Hexo/2024/12/04/hello-world/"/>
+      <url>/Hexo/2024/12/04/hello-world/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
