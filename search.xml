@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>index_img踩坑</title>
+      <link href="/Hexo/2024/12/08/index-img%E8%B8%A9%E5%9D%91/"/>
+      <url>/Hexo/2024/12/08/index-img%E8%B8%A9%E5%9D%91/</url>
+      
+        <content type="html"><![CDATA[<h2 id="踩坑1："><a href="#踩坑1：" class="headerlink" title="踩坑1："></a>踩坑1：</h2><p>由于 <code>Github Page</code>的仓库名没有设置为用户名，导致在访问网址的时候再github.io后面有后缀。在设置index_img的时候也要加上 <code>/仓库名/image/xxx.jpg</code>。但在设施 avatar的时候却不用，会自动加上</p><h2 id="踩坑2"><a href="#踩坑2" class="headerlink" title="踩坑2"></a>踩坑2</h2><p>在source下面新建image文件夹后，使用 <code>hexo g</code>命令后会自动在public中复制一份image文件夹，因此在修改的时候只要修改 <code>/source/image</code> 中的图片，修改了public中的图片也没有用处</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>行测-数量与资料分析</title>
       <link href="/Hexo/2024/12/07/%E8%A1%8C%E6%B5%8B-%E6%95%B0%E9%87%8F%E4%B8%8E%E8%B5%84%E6%96%99%E5%88%86%E6%9E%90/"/>
       <url>/Hexo/2024/12/07/%E8%A1%8C%E6%B5%8B-%E6%95%B0%E9%87%8F%E4%B8%8E%E8%B5%84%E6%96%99%E5%88%86%E6%9E%90/</url>
