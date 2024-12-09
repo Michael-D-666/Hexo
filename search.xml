@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>蓝桥杯备赛</title>
+      <link href="/Hexo/2024/12/09/%E8%93%9D%E6%A1%A5%E6%9D%AF%E5%A4%87%E8%B5%9B/"/>
+      <url>/Hexo/2024/12/09/%E8%93%9D%E6%A1%A5%E6%9D%AF%E5%A4%87%E8%B5%9B/</url>
+      
+        <content type="html"><![CDATA[<ol><li><p>对字典进行多条件排序</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">ans.items() <span class="comment"># 将字典中的所有键值对取出</span></span><br><span class="line">videos = <span class="built_in">list</span>(ans)   <span class="comment"># 将键值对放进列表</span></span><br><span class="line">videos.sort(key=<span class="keyword">lambda</span> x: (x[<span class="number">1</span>], x[<span class="number">0</span>])) <span class="comment"># x[1]表示value,x[0]表示key，先按value进行排序，再按key进行排序</span></span><br><span class="line">re_ans = [video[<span class="number">0</span>] <span class="keyword">for</span> video <span class="keyword">in</span> videos]</span><br></pre></td></tr></table></figure></li><li><p>python 只有小顶堆，大顶堆只能用相反数实现</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">array=[<span class="number">2</span>,<span class="number">4</span>,<span class="number">1</span>,<span class="number">9</span>]</span><br><span class="line">heap.heapify(array) <span class="comment"># 将array转换为了小顶堆</span></span><br><span class="line"><span class="comment"># 小顶堆中放元组，默认按元组的第一个元素排序</span></span><br></pre></td></tr></table></figure></li></ol>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>index_img踩坑</title>
       <link href="/Hexo/2024/12/08/index-img%E8%B8%A9%E5%9D%91/"/>
       <url>/Hexo/2024/12/08/index-img%E8%B8%A9%E5%9D%91/</url>
